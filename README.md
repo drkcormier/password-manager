@@ -3,6 +3,8 @@ Made in C++ with standard libraries
 Password Manager/Generator using AES-256-CTR + HMAC-SHA256 + PBKDF2 Encryption
 Originally written for use in terminal then added GUI capabilities while maintaining original code from terminal.
 
+**[Exe File](https://github.com/drkcormier/password-manager/blob/main/PW_Vault_1.4.exe)**
+
 ---
 ## **Standard Lock Screen**
 <img width="1182" height="819" alt="image" src="https://github.com/user-attachments/assets/b4a5c8b0-121e-45aa-ae84-79a5827bb2f8" />
